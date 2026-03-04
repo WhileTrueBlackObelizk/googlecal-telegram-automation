@@ -47,7 +47,7 @@ Gemeinsames Lernen für die IHK-Prüfung
 ### 2. Chat-ID herausfinden
 
 1. Füge den Bot [@getmyid_bot](https://t.me/getmyid_bot) zu deiner Gruppe hinzu
-2. Er zeigt dir die **Chat-ID** an (Gruppen haben negative IDs, z.B. `-4898103395`)
+2. Er zeigt dir die **Chat-ID** an (Gruppen haben negative IDs, z.B. `-4898993395`)
 3. Du kannst den Hilfs-Bot danach wieder aus der Gruppe entfernen
 
 ### 3. Google Apps Script einrichten
@@ -107,8 +107,8 @@ Beide können manuell im Script-Editor über **Ausführen** gestartet werden.
 
 | Variable | Beschreibung | Beispiel |
 |---|---|---|
-| `CHAT_ID` | Telegram Chat-ID der Zielgruppe | `"-4898103395"` |
-| `FILTER_HASHTAG` | Nur Events mit diesem Hashtag senden. Leer = alle | `"#umschulung"` oder `""` |
+| `CHAT_ID` | Telegram Chat-ID der Zielgruppe | `"-4898993395"` |
+| `FILTER_HASHTAG` | Nur Events mit diesem Hashtag senden. Leer = alle | `"#deinhastag"` oder `""` |
 | `TELEGRAM_TOKEN` | Bot Token (in Script Properties, nicht im Code!) | — |
 
 ## Projektstruktur
