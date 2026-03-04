@@ -134,6 +134,8 @@ calendar-telegram-bot/
 
 MIT — siehe [LICENSE](LICENSE)
 
-## Autor
+## Autoren
 
 Erstellt als Automatisierungsprojekt während der Umschulung zum Fachinformatiker für Anwendungsentwicklung.
+   # >>> WhileTrueBlackObelizk (https://github.com/WhileTrueBlackObelizk)
+   # >>> F-Klose (https://github.com/F-Klose)
