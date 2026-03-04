@@ -7,7 +7,7 @@
 - `testConnection()` ausführen und Konsolenausgabe prüfen
 
 **Chat-ID prüfen:**
-- Gruppen-IDs sind negativ (z.B. `-4898103395`)
+- Gruppen-IDs sind negativ (z.B. `-4898109995`)
 - Bot muss Mitglied der Gruppe sein
 - Wenn die Gruppe zu einem Supergroup aufgestuft wurde, ändert sich die ID
 
