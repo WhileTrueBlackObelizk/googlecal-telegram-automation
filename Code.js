@@ -15,14 +15,14 @@
 // ─── Konfiguration ──────────────────────────────────────────────────────────
 
 /** Telegram Chat-ID der Zielgruppe (negative Zahl für Gruppen) */
-const CHAT_ID = "-4898103395";
+const CHAT_ID = "-4898109995";
 
 /**
  * Optionaler Hashtag-Filter.
  * Wenn gesetzt, werden nur Events mit diesem Hashtag im Titel gesendet.
  * Leer lassen ("") um alle Events zu senden.
  */
-const FILTER_HASHTAG = "#umschulung";
+const FILTER_HASHTAG = "#deinhashtag";
 
 // ─── Telegram API ───────────────────────────────────────────────────────────
 
